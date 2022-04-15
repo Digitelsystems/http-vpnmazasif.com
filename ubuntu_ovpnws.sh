@@ -3,7 +3,7 @@ cp /usr/share/zoneinfo/Asia/Riyadh /etc/localtime
 #Database Details
 HOST='173.82.65.242';
 USER='vpnmazasif_vpnmazasif';
-PASS='*#7ukus}JA7';
+PASS='*#7ukus}JA7,';
 DBNAME='vpnmazasif_vpnmazasif';
 
 install_require()
